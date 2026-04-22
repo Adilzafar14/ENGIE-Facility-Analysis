@@ -1,4 +1,4 @@
-# 🏢 ENGIE Facility Analytics
+# 🏢 Facility Energy & Maintenance Analytics
 
 > End-to-end data analysis for ENGIE Solutions — 
 > Energy Consumption & Predictive Maintenance
